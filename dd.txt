@@ -1,0 +1,1 @@
+trans -brief :es "hello, what is name"
